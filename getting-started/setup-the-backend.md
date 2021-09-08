@@ -1,4 +1,4 @@
-# Setup the Backend
+# Setup the Backend.
 
 **Backend Repo**
 
